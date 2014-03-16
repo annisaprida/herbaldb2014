@@ -3,7 +3,7 @@
 define("_HOST","localhost");
 define("_DB","herbaldb");
 define("_USER","root");
-define("_PASS","");
+define("_PASS","root");
 define("_SPECIES_FILES_PATH","speciesfiles/");
 define("_MOL1_FILES_PATH","mol/mol1/");
 define("_MOL2_FILES_PATH","mol/mol2/");
